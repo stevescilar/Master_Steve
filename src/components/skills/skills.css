@@ -7,7 +7,7 @@
 .skills__content {
     background-color: var(--container-color);
     border: 1px solid rgba(0, 0, 0, 0.1);
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
     border-radius: 1.25rem;
 }
 
@@ -21,12 +21,12 @@
 .skills__box {
     display: flex;
     justify-content: center;
-    column-gap: 2.5rem;
+    column-gap: 2.6rem;
 }
 
 .skills__group {
     display: grid;
     align-items: flex-start;
-    row-gap: 1rem;
+    row-gap: 1.5rem;
 }
 

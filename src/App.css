@@ -124,6 +124,8 @@ img {
 }
 
 .section__subtitle {
+  /* few changes to the original property */
+  font-style: italic;
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;

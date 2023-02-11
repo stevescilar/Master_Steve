@@ -157,7 +157,7 @@ const Qualifications = () => {
                         <i className="uil uil-calendar-alt"></i>2016-2018
                     </div>
 
-                    
+                    {/* jkjk */}
                 </div>
             </div>
         </div>
